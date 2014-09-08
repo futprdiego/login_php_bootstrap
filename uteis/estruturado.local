@@ -1,0 +1,23 @@
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost
+
+    ServerName estruturado.local
+
+    DocumentRoot /var/www/estruturado
+
+    AddDefaultCharset UTF-8
+
+    <Directory /var/www/estruturado>
+	Options Indexes FollowSymLinks MultiViews
+	AllowOverride None
+	Order allow,deny
+	allow from all
+    </Directory>
+
+    ErrorLog /var/www/estruturado/log/error.log
+
+    LogLevel warn
+
+    CustomLog /var/www/estruturado/log/access.log combined
+
+</VirtualHost>

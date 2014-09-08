@@ -1,0 +1,225 @@
+[Fri Aug 29 02:23:37.974877 2014] [:error] [pid 17829] [client 127.0.0.1:34283] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Aug 29 02:23:37.975414 2014] [:error] [pid 17829] [client 127.0.0.1:34283] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Aug 29 02:23:37.975447 2014] [:error] [pid 17829] [client 127.0.0.1:34283] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:23:37.975462 2014] [:error] [pid 17829] [client 127.0.0.1:34283] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:23:37.975478 2014] [:error] [pid 17829] [client 127.0.0.1:34283] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:23:56.849845 2014] [:error] [pid 16643] [client 127.0.0.1:34285] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Aug 29 02:23:56.854084 2014] [:error] [pid 16643] [client 127.0.0.1:34285] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Aug 29 02:23:56.854127 2014] [:error] [pid 16643] [client 127.0.0.1:34285] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:23:56.854143 2014] [:error] [pid 16643] [client 127.0.0.1:34285] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:23:56.854158 2014] [:error] [pid 16643] [client 127.0.0.1:34285] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:24:46.927743 2014] [:error] [pid 16644] [client 127.0.0.1:34293] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Aug 29 02:24:46.928160 2014] [:error] [pid 16644] [client 127.0.0.1:34293] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Aug 29 02:24:46.928207 2014] [:error] [pid 16644] [client 127.0.0.1:34293] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:24:46.928229 2014] [:error] [pid 16644] [client 127.0.0.1:34293] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:24:46.928250 2014] [:error] [pid 16644] [client 127.0.0.1:34293] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:31:01.482221 2014] [:error] [pid 3023] [client 127.0.0.1:53722] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Aug 29 02:31:01.519071 2014] [:error] [pid 3023] [client 127.0.0.1:53722] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Aug 29 02:31:01.519124 2014] [:error] [pid 3023] [client 127.0.0.1:53722] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:31:01.519139 2014] [:error] [pid 3023] [client 127.0.0.1:53722] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:31:01.519153 2014] [:error] [pid 3023] [client 127.0.0.1:53722] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:57:08.457247 2014] [:error] [pid 3195] [client 127.0.0.1:49960] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Aug 29 02:57:08.465606 2014] [:error] [pid 3195] [client 127.0.0.1:49960] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Aug 29 02:57:08.465730 2014] [:error] [pid 3195] [client 127.0.0.1:49960] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:57:08.465747 2014] [:error] [pid 3195] [client 127.0.0.1:49960] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Aug 29 02:57:08.465831 2014] [:error] [pid 3195] [client 127.0.0.1:49960] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:15:15.042171 2014] [:error] [pid 3021] [client 127.0.0.1:43417] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Tue Sep 02 21:15:15.044051 2014] [:error] [pid 3021] [client 127.0.0.1:43417] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Tue Sep 02 21:15:15.044077 2014] [:error] [pid 3021] [client 127.0.0.1:43417] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:15:15.044089 2014] [:error] [pid 3021] [client 127.0.0.1:43417] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:15:15.044099 2014] [:error] [pid 3021] [client 127.0.0.1:43417] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:17:35.045155 2014] [:error] [pid 3020] [client 127.0.0.1:43424] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Tue Sep 02 21:17:35.045266 2014] [:error] [pid 3020] [client 127.0.0.1:43424] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Tue Sep 02 21:17:35.045287 2014] [:error] [pid 3020] [client 127.0.0.1:43424] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:17:35.045300 2014] [:error] [pid 3020] [client 127.0.0.1:43424] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:17:35.045312 2014] [:error] [pid 3020] [client 127.0.0.1:43424] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:18:04.126733 2014] [:error] [pid 3025] [client 127.0.0.1:43426] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Tue Sep 02 21:18:04.126850 2014] [:error] [pid 3025] [client 127.0.0.1:43426] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Tue Sep 02 21:18:04.126878 2014] [:error] [pid 3025] [client 127.0.0.1:43426] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:18:04.126896 2014] [:error] [pid 3025] [client 127.0.0.1:43426] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:18:04.126915 2014] [:error] [pid 3025] [client 127.0.0.1:43426] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:18:41.126336 2014] [:error] [pid 3021] [client 127.0.0.1:43428] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Tue Sep 02 21:18:41.126396 2014] [:error] [pid 3021] [client 127.0.0.1:43428] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Tue Sep 02 21:18:41.126422 2014] [:error] [pid 3021] [client 127.0.0.1:43428] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:18:41.126440 2014] [:error] [pid 3021] [client 127.0.0.1:43428] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:18:41.126455 2014] [:error] [pid 3021] [client 127.0.0.1:43428] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:25:48.291285 2014] [:error] [pid 3621] [client 127.0.0.1:44038] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Tue Sep 02 21:25:48.291351 2014] [:error] [pid 3621] [client 127.0.0.1:44038] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Tue Sep 02 21:25:48.291368 2014] [:error] [pid 3621] [client 127.0.0.1:44038] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:25:48.291380 2014] [:error] [pid 3621] [client 127.0.0.1:44038] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Tue Sep 02 21:25:48.291403 2014] [:error] [pid 3621] [client 127.0.0.1:44038] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:17:52.173227 2014] [:error] [pid 3052] [client 127.0.0.1:35325] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:17:52.179877 2014] [:error] [pid 3052] [client 127.0.0.1:35325] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:17:59.645226 2014] [:error] [pid 3050] [client 127.0.0.1:35327] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:17:59.645301 2014] [:error] [pid 3050] [client 127.0.0.1:35327] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/login.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:18:02.416791 2014] [:error] [pid 3055] [client 127.0.0.1:35328] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:18:02.416860 2014] [:error] [pid 3055] [client 127.0.0.1:35328] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/login.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:18:03.682357 2014] [:error] [pid 3054] [client 127.0.0.1:35329] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:18:03.682439 2014] [:error] [pid 3054] [client 127.0.0.1:35329] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/login.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:18:15.964404 2014] [:error] [pid 3699] [client 127.0.0.1:35330] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:18:15.964479 2014] [:error] [pid 3699] [client 127.0.0.1:35330] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:18:23.682360 2014] [:error] [pid 3051] [client 127.0.0.1:35337] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:18:23.682412 2014] [:error] [pid 3051] [client 127.0.0.1:35337] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:21:25.634201 2014] [:error] [pid 3051] [client 127.0.0.1:35397] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:21:25.634288 2014] [:error] [pid 3051] [client 127.0.0.1:35397] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:21:43.400636 2014] [:error] [pid 3054] [client 127.0.0.1:35435] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:21:43.400705 2014] [:error] [pid 3054] [client 127.0.0.1:35435] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/login.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:24:25.899414 2014] [:error] [pid 3050] [client 127.0.0.1:35440] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:24:25.899480 2014] [:error] [pid 3050] [client 127.0.0.1:35440] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:24:27.312131 2014] [:error] [pid 3699] [client 127.0.0.1:35444] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:24:27.312180 2014] [:error] [pid 3699] [client 127.0.0.1:35444] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:35:50.549590 2014] [:error] [pid 3699] [client 127.0.0.1:35851] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:35:50.549681 2014] [:error] [pid 3699] [client 127.0.0.1:35851] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:38:57.228513 2014] [:error] [pid 3055] [client 127.0.0.1:35874] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:38:57.228589 2014] [:error] [pid 3055] [client 127.0.0.1:35874] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:38:58.053741 2014] [:error] [pid 3051] [client 127.0.0.1:35875] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[Fri Sep 05 20:38:58.053794 2014] [:error] [pid 3051] [client 127.0.0.1:35875] PHP Fatal error:  Unknown: Failed opening required '/var/www/estruturado/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Fri Sep 05 20:39:11.980686 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:39:11.980877 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:39:11.980903 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:39:11.980916 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:39:11.980928 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:39:16.585813 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/estruturado/classes/conexao.php on line 18, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:39:16.585920 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Warning:  mysqli::query(): Couldn't fetch Db in /var/www/estruturado/login.php on line 28, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:39:19.861580 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/estruturado/classes/conexao.php on line 18, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:39:19.861678 2014] [:error] [pid 3052] [client 127.0.0.1:35877] PHP Warning:  mysqli::query(): Couldn't fetch Db in /var/www/estruturado/login.php on line 28, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:39:39.261503 2014] [:error] [pid 3699] [client 127.0.0.1:36480] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/estruturado/classes/conexao.php on line 18, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:39:39.261580 2014] [:error] [pid 3699] [client 127.0.0.1:36480] PHP Warning:  mysqli::query(): Couldn't fetch Db in /var/www/estruturado/login.php on line 28, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:43:24.733831 2014] [:error] [pid 3051] [client 127.0.0.1:36493] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:43:24.733921 2014] [:error] [pid 3051] [client 127.0.0.1:36493] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:43:24.733959 2014] [:error] [pid 3051] [client 127.0.0.1:36493] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:43:24.733972 2014] [:error] [pid 3051] [client 127.0.0.1:36493] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:43:24.733983 2014] [:error] [pid 3051] [client 127.0.0.1:36493] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:44:02.925276 2014] [:error] [pid 3050] [client 127.0.0.1:36496] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:44:02.925343 2014] [:error] [pid 3050] [client 127.0.0.1:36496] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:44:02.925358 2014] [:error] [pid 3050] [client 127.0.0.1:36496] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:44:02.925368 2014] [:error] [pid 3050] [client 127.0.0.1:36496] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:44:02.925377 2014] [:error] [pid 3050] [client 127.0.0.1:36496] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:44:08.751532 2014] [:error] [pid 3052] [client 127.0.0.1:36497] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/estruturado/classes/conexao.php on line 18, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:44:08.751607 2014] [:error] [pid 3052] [client 127.0.0.1:36497] PHP Warning:  mysqli::query(): Couldn't fetch Db in /var/www/estruturado/login.php on line 28, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:44:16.086270 2014] [:error] [pid 3052] [client 127.0.0.1:36497] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/estruturado/classes/conexao.php on line 18, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:44:16.086331 2014] [:error] [pid 3052] [client 127.0.0.1:36497] PHP Warning:  mysqli::query(): Couldn't fetch Db in /var/www/estruturado/login.php on line 28, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:46:41.945726 2014] [:error] [pid 3699] [client 127.0.0.1:36502] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/estruturado/classes/conexao.php on line 18, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:46:41.945789 2014] [:error] [pid 3699] [client 127.0.0.1:36502] PHP Warning:  mysqli::query(): Couldn't fetch Db in /var/www/estruturado/login.php on line 28, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:46:48.819974 2014] [:error] [pid 3055] [client 127.0.0.1:36506] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/estruturado/classes/conexao.php on line 18, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:46:48.820059 2014] [:error] [pid 3055] [client 127.0.0.1:36506] PHP Warning:  mysqli::query(): Couldn't fetch Db in /var/www/estruturado/login.php on line 28, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:48:10.061290 2014] [:error] [pid 3055] [client 127.0.0.1:36515] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:48:10.061368 2014] [:error] [pid 3055] [client 127.0.0.1:36515] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:48:10.061388 2014] [:error] [pid 3055] [client 127.0.0.1:36515] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:48:10.061401 2014] [:error] [pid 3055] [client 127.0.0.1:36515] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:48:10.061429 2014] [:error] [pid 3055] [client 127.0.0.1:36515] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:50:34.417683 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:50:34.417777 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:50:34.417793 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:50:34.417804 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:50:34.417813 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:50:37.234486 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:50:37.234542 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:50:37.234557 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:50:37.234566 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:50:37.234575 2014] [:error] [pid 7242] [client 127.0.0.1:36522] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:51:27.683868 2014] [:error] [pid 5295] [client 127.0.0.1:36528] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:51:27.683944 2014] [:error] [pid 5295] [client 127.0.0.1:36528] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:51:27.683966 2014] [:error] [pid 5295] [client 127.0.0.1:36528] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:51:27.683980 2014] [:error] [pid 5295] [client 127.0.0.1:36528] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:51:27.683993 2014] [:error] [pid 5295] [client 127.0.0.1:36528] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:51:36.366213 2014] [:error] [pid 3054] [client 127.0.0.1:36529] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:51:36.366278 2014] [:error] [pid 3054] [client 127.0.0.1:36529] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:51:36.366296 2014] [:error] [pid 3054] [client 127.0.0.1:36529] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:51:36.366309 2014] [:error] [pid 3054] [client 127.0.0.1:36529] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:51:36.366321 2014] [:error] [pid 3054] [client 127.0.0.1:36529] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:52:09.672844 2014] [:error] [pid 3055] [client 127.0.0.1:36535] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:52:09.672908 2014] [:error] [pid 3055] [client 127.0.0.1:36535] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:52:09.672946 2014] [:error] [pid 3055] [client 127.0.0.1:36535] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:52:09.672960 2014] [:error] [pid 3055] [client 127.0.0.1:36535] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:52:09.672971 2014] [:error] [pid 3055] [client 127.0.0.1:36535] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 20:53:34.132959 2014] [:error] [pid 7240] [client 127.0.0.1:36540] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:53:34.133046 2014] [:error] [pid 7240] [client 127.0.0.1:36540] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:53:34.133070 2014] [:error] [pid 7240] [client 127.0.0.1:36540] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:53:34.133085 2014] [:error] [pid 7240] [client 127.0.0.1:36540] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:53:34.133099 2014] [:error] [pid 7240] [client 127.0.0.1:36540] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:55:26.853711 2014] [:error] [pid 7242] [client 127.0.0.1:36794] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 20:55:26.853754 2014] [:error] [pid 7242] [client 127.0.0.1:36794] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 20:55:26.853767 2014] [:error] [pid 7242] [client 127.0.0.1:36794] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:55:26.853776 2014] [:error] [pid 7242] [client 127.0.0.1:36794] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 20:55:26.853784 2014] [:error] [pid 7242] [client 127.0.0.1:36794] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 21:07:54.665660 2014] [:error] [pid 3699] [client 127.0.0.1:37079] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:07:54.665740 2014] [:error] [pid 3699] [client 127.0.0.1:37079] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:07:54.665765 2014] [:error] [pid 3699] [client 127.0.0.1:37079] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:07:54.665784 2014] [:error] [pid 3699] [client 127.0.0.1:37079] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:07:54.665799 2014] [:error] [pid 3699] [client 127.0.0.1:37079] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:28:41.902129 2014] [:error] [pid 3050] [client 127.0.0.1:37161] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 21:28:41.902222 2014] [:error] [pid 3050] [client 127.0.0.1:37161] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 21:28:41.902243 2014] [:error] [pid 3050] [client 127.0.0.1:37161] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 21:28:41.902257 2014] [:error] [pid 3050] [client 127.0.0.1:37161] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 21:28:41.902296 2014] [:error] [pid 3050] [client 127.0.0.1:37161] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 21:29:02.511565 2014] [:error] [pid 3055] [client 127.0.0.1:37167] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:29:02.511624 2014] [:error] [pid 3055] [client 127.0.0.1:37167] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:29:02.511638 2014] [:error] [pid 3055] [client 127.0.0.1:37167] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:29:02.511648 2014] [:error] [pid 3055] [client 127.0.0.1:37167] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:29:02.511656 2014] [:error] [pid 3055] [client 127.0.0.1:37167] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 21:32:12.365847 2014] [:error] [pid 7242] [client 127.0.0.1:37177] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 21:32:12.366074 2014] [:error] [pid 7242] [client 127.0.0.1:37177] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 21:32:12.366100 2014] [:error] [pid 7242] [client 127.0.0.1:37177] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 21:32:12.366118 2014] [:error] [pid 7242] [client 127.0.0.1:37177] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 21:32:12.366133 2014] [:error] [pid 7242] [client 127.0.0.1:37177] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 22:11:31.017874 2014] [:error] [pid 3055] [client 127.0.0.1:37683] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8
+[Fri Sep 05 22:11:31.017933 2014] [:error] [pid 3055] [client 127.0.0.1:37683] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15
+[Fri Sep 05 22:11:31.017947 2014] [:error] [pid 3055] [client 127.0.0.1:37683] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 22:11:31.017956 2014] [:error] [pid 3055] [client 127.0.0.1:37683] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 22:11:31.017965 2014] [:error] [pid 3055] [client 127.0.0.1:37683] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16
+[Fri Sep 05 22:48:55.657111 2014] [:error] [pid 3055] [client 127.0.0.1:37942] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 22:48:55.657191 2014] [:error] [pid 3055] [client 127.0.0.1:37942] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 22:48:55.657216 2014] [:error] [pid 3055] [client 127.0.0.1:37942] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 22:48:55.657231 2014] [:error] [pid 3055] [client 127.0.0.1:37942] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 22:48:55.657246 2014] [:error] [pid 3055] [client 127.0.0.1:37942] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:02:54.998182 2014] [:error] [pid 7240] [client 127.0.0.1:37960] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:02:54.998249 2014] [:error] [pid 7240] [client 127.0.0.1:37960] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:02:54.998278 2014] [:error] [pid 7240] [client 127.0.0.1:37960] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:02:54.998294 2014] [:error] [pid 7240] [client 127.0.0.1:37960] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:02:54.998308 2014] [:error] [pid 7240] [client 127.0.0.1:37960] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:25.811400 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:25.811502 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:25.811518 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:25.811528 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:25.811537 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:27.271117 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:27.271163 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:27.271179 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:27.271192 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:27.271204 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:28.568201 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:28.568257 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:28.568281 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:28.568297 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:10:28.568335 2014] [:error] [pid 3699] [client 127.0.0.1:38096] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:14:55.609203 2014] [:error] [pid 3050] [client 127.0.0.1:38129] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:14:55.609295 2014] [:error] [pid 3050] [client 127.0.0.1:38129] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:14:55.609317 2014] [:error] [pid 3050] [client 127.0.0.1:38129] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:14:55.609331 2014] [:error] [pid 3050] [client 127.0.0.1:38129] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:14:55.609344 2014] [:error] [pid 3050] [client 127.0.0.1:38129] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:03.825882 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:03.825939 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:03.825960 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:03.825982 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:03.825998 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:06.114107 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:06.114155 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:06.114172 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:06.114185 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:06.114198 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:07.275699 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:07.275749 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:07.275768 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:07.275801 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:19:07.275816 2014] [:error] [pid 7241] [client 127.0.0.1:38138] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:01.797403 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:01.797469 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:01.797491 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:01.797507 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:01.797522 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:05.533416 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined index: login in /var/www/estruturado/index.php on line 8, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:05.533470 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 15, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:05.533489 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$nome in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:05.533503 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$acesso in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php
+[Fri Sep 05 23:20:05.533518 2014] [:error] [pid 7241] [client 127.0.0.1:38150] PHP Notice:  Undefined property: stdClass::$ip in /var/www/estruturado/index.php on line 16, referer: http://estruturado.local/login.php

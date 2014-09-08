@@ -1,0 +1,146 @@
+<?php
+/**
+ * @author Glaubert Dumpierre
+ * @since 15/08/2014
+ */
+session_start();
+
+include 'classes/conexao.php';
+
+$usuario = !empty($_POST['usuario']) ? $_POST['usuario'] : null;
+
+$senha = !empty($_POST['senha']) ? $_POST['senha'] : null;
+
+if ( !is_null($usuario) && !is_null($senha) )
+{
+	$conexao = new Db();
+
+	$sql = "SELECT A.*,
+	               B.* 
+			  FROM usuarios AS A  
+	    INNER JOIN pessoas AS B 
+	            ON ( A.idPessoa = B.idPessoa )  
+			 WHERE A.usuario = '{$usuario}' 
+			   AND A.senha = md5('{$senha}') 
+			   AND A.situacao = true 
+	         LIMIT 1;";
+
+	$resultado = $conexao->query($sql);
+
+	if ( $resultado )
+	{
+		if ( $resultado->num_rows > 0 )
+		{
+			echo 'Acesso autorizado!';
+			
+			$dados = $resultado->fetch_object();
+			
+			$_SESSION['login']['usuario'] = $dados->usuario;
+
+			$_SESSION['login']['nome'] = $dados->nome;
+
+			$_SESSION['login']['tempo'] = date('H:i:s');
+
+			$_SESSION['login']['acesso'] = date('H:i:s');
+
+			$_SESSION['login']['ip'] = $_SERVER['REMOTE_ADDR'];
+
+			unset($_POST['usuario']);
+
+			unset($_POST['senha']);
+
+			header('Location: index.php');
+		}
+
+		else
+		{
+			echo "<div id='myAlert' class='alert alert-danger'>
+        <a href='#' class='close' data-dismiss='alert'>&times;</a>
+        &nbsp;O usuário ou senha inseridos estão incorretos!&nbsp;&nbsp;<a href='index.php'>HOME</a> <a href='pessoa.php'>CADASTRAR USUÁRIO</a><br>
+    </div>";	
+
+
+
+			}		
+	}
+}
+?>
+<!doctype html5>
+<html lang="pt">
+    <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<meta name="description" content="">
+    	<meta name="author" content="">
+    	<link rel="icon" href="../../favicon.ico">
+        <title>Login r-PHP</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+    </head>
+    <body>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+	
+	<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    	<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    	<script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+        <!-- Div barra navegação principal -->
+        <div class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">r-PHP</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">Início</a></li>
+                    </ul>                  
+                </div>
+            </div>
+        </div>
+
+        <!-- Div formulário bem vindo -->
+        <div class="container theme-showcase" role="main">
+            <div class="jumbotron">
+                <h1><strong>Seja bem vindo ao <font color="#4682B4">r-PHP</font></strong></h1>
+                <p>Sistema de revisão do conteúdo apresentado na disciplina de PHP</p>
+            </div>
+        </div>
+
+        <!-- Formulário de Login -->
+        <div class="container col-sm-7">
+            <div class="container col-md-5 col-md-offset-8">
+                <form class="form-horizontal" role="form" method="POST">
+                    <legend><h2><strong>Acesso a revisão</strong></h2></legend>
+                    <div class="form-group">
+                        <label for="input_usuario" class="col-sm-3 control-label">Usuário</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="usuario" placeholder="Usuário" required autofocus>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="input_senha" class="col-sm-3 control-label">Senha</label>
+                        <div class="col-sm-9">
+                            <input type="password" class="form-control" name="senha" placeholder="Senha" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-sm-offset-3 col-sm-10">
+                            <button type="submit" class="btn btn-primary">Entrar</button>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    <legend></legend>
+    <div class="footer col-sm-12"> 
+        <p> &copy; 2014 - Diego Reinoso Noronha</p>
+    </div>
+</body>	
+</html>
+
